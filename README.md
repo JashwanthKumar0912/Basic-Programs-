@@ -1,2 +1,2 @@
 # Basic-Programs-
-THese are progrmas with questions and answers. 
+These are progrmas with questions and answers. 
